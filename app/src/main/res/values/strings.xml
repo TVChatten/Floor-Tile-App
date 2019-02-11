@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Floor Tile App</string>
+    <string name="txtTitle">Number Of Tiles</string>
+    <string name="txtLength"></string>
+    <string name="txtWidth"></string>
+    <string name="radSmallTile">12 x 12 Tile</string>
+    <string name="radLargeTile">18 x 18 Tile</string>
+    <string name="btnResult">Total Of Tiles</string>
+    <string name="hintLength">Input Length</string>
+    <string name="hintWidth">Input Width</string>
+    <string name="txtResult"></string>
+</resources>
